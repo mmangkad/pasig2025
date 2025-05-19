@@ -1,8 +1,8 @@
 """Script to visualize Pasig 2025 election results from CSV file
 and generate bar charts of top candidates per contest.
 
-Author: Your Name
-Date: 2025
+Author: Mohammad Miadh Angkad
+Date: 19 May 2025
 """
 
 import pandas as pd
