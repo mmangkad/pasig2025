@@ -1,7 +1,7 @@
 """Script to download and compile 2025 Pasig City election results
 from the COMELEC website into a structured CSV file.
 
-Author: Mohammad Angkad
+Author: Mohammad Miadh Angkad
 Date: 19 May 2025
 """
 
